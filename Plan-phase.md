@@ -1,5 +1,5 @@
 **Threat Modeling**
-1. In the PLan phase of SDOL, we talked about Threat Modelling. Now let's explore the same with more details.
+1. In the Plan phase of SDOL, we talked about Threat Modelling. Now let's explore the same with more details.
 2. Threat modeling is the process of figuring out how a hacker/attacker might try to attack, and then making a plan to stop them.
 3. Definition - "Threat modeling is a structured approach to identifying, assessing, and mitigating potential security threats in a system or application. It is a proactive process that helps organizations understand and address potential vulnerabilities before they can be exploited by attackers".
 --------------------------------
