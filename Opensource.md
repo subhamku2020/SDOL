@@ -19,3 +19,11 @@
 2. Choosing a component is imporatnt. Here few things to keep in mind as Licensing (Common open-source licenses include MIT, Apache, GPL, and BSD), community support ( A vibrant community often means better support, frequent updates, and a wealth of resources), Security and Maintenance (versioning & updates), performance (Rating & no of download, reviews ), documentation. These parameter helps to identify & choose a OSS component.
 3. Now after choosing a OSS, it is mandatory to create strategy to update is regularly and fix or upgrade if there is any known vulenrability in market. In todays world the dependency on open source is huge and so 60% or more of a software is developed  using open source component. To track the issues, updates, version is a big task in many corporate. So tackle these there are software/tools available which scan the list of open source use in a product to fins out outdate & vulnerable components.
 4. These tools take the version of the OSS and check against Common Vulenetabilities & Exposure (CVE - It is a system for identifying, naming, and tracking vulnerabilities in software and hardware systems) Database.
+5. Below is an example of how it looks like. In the 3rd image you can see the CVE details for respective Vulnerability and a CVSS score for the same. CVSS score > 7 means it is a high severity issue and the impact of the vulnerability is more. The alert report also gives a fix recommendation. The job of a security professional or devsecops professional or compliance professional is to analyse the issue and check if it is actually used in software and than advice development team to fix it by upgrdae or code changes.
+
+   ![image](https://github.com/subhamku2020/SDOL/assets/71179793/590b829e-6f2f-4d1a-b2d5-7fa9cb8eca5a)
+   ![image](https://github.com/subhamku2020/SDOL/assets/71179793/f5e4c2a3-658c-4e05-9bc3-579d3265b061)
+   ![image](https://github.com/subhamku2020/SDOL/assets/71179793/a3a99a36-9674-4543-b2af-02ef94b7af3a)
+
+
+
